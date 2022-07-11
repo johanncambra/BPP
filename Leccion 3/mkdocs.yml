@@ -1,0 +1,13 @@
+site_name: Repositorio de funciones para Machine Learning
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
+
+nav:
+  - Repositorio de funciones para Machine Learning: index.md
+  - tutorial.md
+  - referencia.md
+  - explicacion.md
